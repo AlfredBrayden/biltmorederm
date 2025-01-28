@@ -31,7 +31,7 @@
                         <div class="swiper-wrapper">
                             <!-- Slides -->
                             <div class="swiper-slide">
-                                <div class="swiper-inner" data-bgimage="url(images/slider/slider1.webp">
+                                <div class="swiper-inner" data-bgimage="url(images/slider/Biltmore-Derm-Homepage-Desktop-Header-v2.webp">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
@@ -52,7 +52,7 @@
                                                         </h3>
 
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3" href="contact.php">Book a
+                                                        <a class="btn-main mb10 mb-3" href="contact.php">Book an
                                                             Appointment</a>
                                                     </div>
                                                 </div>
