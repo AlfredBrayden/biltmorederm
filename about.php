@@ -3,7 +3,7 @@
 <title>Carpenter Heating and Cooling | About Us</title>
 
 <meta name="description"
-    content=" Discover Carpenter Heating and Air Conditioning's 65-year legacy in Ogden. Under new ownership, we deliver lasting comfort with a focus on personalized service." />
+    content=" Discover Biltmore Dermatology's 65-year legacy in Ogden. Under new ownership, we deliver lasting comfort with a focus on personalized service." />
 
 </head>
 
@@ -59,7 +59,7 @@
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Welcome to Carpenter Heating and Air
                                 Conditioning: Your Locally-Owned Comfort Partner Since 1960</h2>
-                            <p>Serving the Ogden community for over six decades, Carpenter Heating and Air Conditioning
+                            <p>Serving the Ogden community for over six decades, Biltmore Dermatology
                                 is your trusted, locally-owned partner in comfort. Now under new ownership, we are
                                 revitalizing our commitment to exceptional service and personal relationships with our
                                 customers, while staying true to the values that have defined us for over sixty years.
@@ -114,7 +114,7 @@
                                 designed to last, ensuring your comfort and satisfaction.</p>
 
                             <h2>Why Choose Carpenter?</h2>
-                            <p>Choosing Carpenter Heating and Air Conditioning means partnering with a team that values
+                            <p>Choosing Biltmore Dermatology means partnering with a team that values
                                 relationships over revenue. Our new ownership has reinvigorated our approach, bringing
                                 renewed energy and innovation to every project. From the first consultation to the final
                                 installation, our handpicked professionals ensure your needs are met with care and
@@ -123,7 +123,7 @@
                                 attentive, responsive care at every step.</p>
 
                             <h2>What Sets Us Apart</h2>
-                            <p>What truly sets Carpenter Heating and Air Conditioning apart is our unwavering commitment
+                            <p>What truly sets Biltmore Dermatology apart is our unwavering commitment
                                 to long-term client satisfaction, now stronger than ever under new ownership. We
                                 understand that your home’s comfort is personal, and we treat it as such. Our family’s
                                 name is on the line with every job, and that drives us to deliver cutting-edge

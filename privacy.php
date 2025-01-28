@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Terms of Service and Privacy Policy| Carpenter Heating and Air Conditioning</title>
+<title>Terms of Service and Privacy Policy| Biltmore Dermatology</title>
 
 
 </head>
@@ -55,7 +55,7 @@
                             <div class="row g-4">
                                 <div class="col-lg-12">
 
-                                    <h2>Carpenter Heating and Air Conditioning: Terms of Service and Privacy Policy</h2>
+                                    <h2>Biltmore Dermatology: Terms of Service and Privacy Policy</h2>
 
                                     <h3>1. Terms</h3>
                                     <p>By accessing the website at <a
@@ -69,7 +69,7 @@
                                     <h3>2. Use License</h3>
                                     <ol type="a">
                                         <li>Permission is granted to temporarily download one copy of the materials
-                                            (information or software) on Carpenter Heating and Air Conditioning's
+                                            (information or software) on Biltmore Dermatology's
                                             website for personal, non-commercial transitory viewing only. This is the
                                             grant of a license, not a transfer of title, and under this license, you may
                                             not:
@@ -78,7 +78,7 @@
                                                 <li>use the materials for any commercial purpose, or any public display
                                                     (commercial or non-commercial);</li>
                                                 <li>attempt to decompile or reverse engineer any software contained on
-                                                    Carpenter Heating and Air Conditioning's website;</li>
+                                                    Biltmore Dermatology's website;</li>
                                                 <li>remove any copyright or other proprietary notations from the
                                                     materials; or</li>
                                                 <li>transfer the materials to another person or "mirror" the materials
@@ -86,7 +86,7 @@
                                             </ol>
                                         </li>
                                         <li>This license shall automatically terminate if you violate any of these
-                                            restrictions and may be terminated by Carpenter Heating and Air Conditioning
+                                            restrictions and may be terminated by Biltmore Dermatology
                                             at any time. Upon terminating your viewing of these materials or upon the
                                             termination of this license, you must destroy any downloaded materials in
                                             your possession whether in electronic or printed format.</li>
@@ -94,48 +94,48 @@
 
                                     <h3>3. Disclaimer</h3>
                                     <ol type="a">
-                                        <li>The materials on Carpenter Heating and Air Conditioning's website are
-                                            provided on an 'as is' basis. Carpenter Heating and Air Conditioning makes
+                                        <li>The materials on Biltmore Dermatology's website are
+                                            provided on an 'as is' basis. Biltmore Dermatology makes
                                             no warranties, expressed or implied, and at this moment disclaims and
                                             negates all other warranties including, without limitation, implied
                                             warranties or conditions of merchantability, fitness for a particular
                                             purpose, or non-infringement of intellectual property or other violation of
                                             rights.</li>
-                                        <li>Further, Carpenter Heating and Air Conditioning do not warrant or make any
+                                        <li>Further, Biltmore Dermatology do not warrant or make any
                                             representations concerning the accuracy, likely results, or reliability of
                                             the use of the materials on its website or otherwise relating to such
                                             materials or any sites linked to this site.</li>
                                     </ol>
 
                                     <h3>4. Limitations</h3>
-                                    <p>In no event shall Carpenter Heating and Air Conditioning or its suppliers be
+                                    <p>In no event shall Biltmore Dermatology or its suppliers be
                                         liable for any damages (including, without limitation, damages for loss of data
                                         or profit, or due to business interruption) arising out of the use or inability
-                                        to use the materials on Carpenter Heating and Air Conditioning's website, even
-                                        if Carpenter Heating and Air Conditioning or a Carpenter Heating and Air
+                                        to use the materials on Biltmore Dermatology's website, even
+                                        if Biltmore Dermatology or a Carpenter Heating and Air
                                         Conditioning authorized representative has been notified orally or in writing of
                                         the possibility of such damage. Because some jurisdictions do not allow
                                         limitations on implied warranties or limitations of liability for consequential
                                         or incidental damages, these limitations may not apply to you.</p>
 
                                     <h3>5. Accuracy of materials</h3>
-                                    <p>The materials appearing on Carpenter Heating and Air Conditioning's website could
+                                    <p>The materials appearing on Biltmore Dermatology's website could
                                         include technical, typographical, or photographic errors. Carpenter Heating and
                                         Air Conditioning does not warrant that any of the materials on its website are
-                                        accurate, complete, or current. Carpenter Heating and Air Conditioning may make
+                                        accurate, complete, or current. Biltmore Dermatology may make
                                         changes to the materials contained on its website at any time without notice.
-                                        However, Carpenter Heating and Air Conditioning does not make any commitment to
+                                        However, Biltmore Dermatology does not make any commitment to
                                         update the materials.</p>
 
                                     <h3>6. Links</h3>
-                                    <p>Carpenter Heating and Air Conditioning has not reviewed all of the sites linked
+                                    <p>Biltmore Dermatology has not reviewed all of the sites linked
                                         to its website and is not responsible for the contents of any such linked site.
                                         The inclusion of any link does not imply endorsement by Carpenter Heating and
                                         Air Conditioning of the site. Use of any such linked website is at the user's
                                         own risk.</p>
 
                                     <h3>7. Modifications</h3>
-                                    <p>Carpenter Heating and Air Conditioning may revise these terms of service for its
+                                    <p>Biltmore Dermatology may revise these terms of service for its
                                         website at any time without notice. By using this website you are agreeing to be
                                         bound by the then-current version of these terms of service.</p>
 
@@ -145,12 +145,12 @@
                                         or location.</p>
 
                                     <h2>Privacy Policy</h2>
-                                    <p>Your privacy is important to us. It is Carpenter Heating and Air Conditioning's
+                                    <p>Your privacy is important to us. It is Biltmore Dermatology's
                                         policy to respect your privacy regarding any information we may collect from you
                                         across our website.</p>
 
                                     <h2>Privacy Policy</h2>
-                                    <p>Your privacy is important to us. It is Carpenter Heating and Air Conditioning's
+                                    <p>Your privacy is important to us. It is Biltmore Dermatology's
                                         policy to respect your privacy regarding any information we may collect from you
                                         across our website, <a
                                             href="https://www.carpenterfurnace.com/">https://www.carpenterfurnace.com/</a>.
@@ -180,7 +180,7 @@
                                         required by law. We will only retain personal information for as long as
                                         necessary to provide you with a service.</p>
 
-                                    <h3>Cookie Policy for Carpenter Heating and Air Conditioning</h3>
+                                    <h3>Cookie Policy for Biltmore Dermatology</h3>
 
                                     <p>Cookies</p>
                                     <p>We use cookies on our website. These are small text files stored on your
@@ -268,7 +268,7 @@
                                         guardians.</p>
 
                                     <h4>Third-Party Privacy Policies</h4>
-                                    <p>Carpenter Heating and Air Conditioning Privacy Policy does not apply to other
+                                    <p>Biltmore Dermatology Privacy Policy does not apply to other
                                         advertisers or websites. Thus, we are advising you to consult the respective
                                         Privacy Policies of these third-party ad servers for more detailed information.
                                         It may include their practices and instructions about how to opt out of certain
@@ -321,7 +321,7 @@
                                     <h3>Children's Information</h3>
                                     <p>Another part of our priority is adding protection for children while using the
                                         internet. We encourage parents and guardians to observe, participate in, and/or
-                                        monitor and guide their online activity. Carpenter Heating and Air Conditioning
+                                        monitor and guide their online activity. Biltmore Dermatology
                                         does not knowingly collect any personally Identifiable Information from children
                                         under the age of 13. If you think that your child provided this kind of
                                         information on our website, we strongly encourage you to contact us immediately

@@ -1,8 +1,8 @@
 <?php include('header.php'); ?>
-<title>Carpenter Heating and Air Conditioning | Cooling</title>
+<title>Biltmore Dermatology | Cooling</title>
 
 <meta name="description"
-    content="Stay cool with Carpenter Heating and Air Conditioning in Ogden, Utah. Offering expert air conditioner repair, maintenance, and high-efficiency systems. Contact us for service and explore our range of cooling solutions.">
+    content="Stay cool with Biltmore Dermatology in Ogden, Utah. Offering expert air conditioner repair, maintenance, and high-efficiency systems. Contact us for service and explore our range of cooling solutions.">
 
 </head>
 
@@ -62,7 +62,7 @@
 
                                     <h2>Air Conditioner Repair Services in Ogden, Utah</h2>
                                     <p>Are you struggling with an air conditioning system that won't cool? There's no
-                                        need to sweat it out! At Carpenter Heating and Air Conditioning, our friendly
+                                        need to sweat it out! At Biltmore Dermatology, our friendly
                                         and skilled master technicians are ready to diagnose and swiftly resolve any
                                         issues with your air conditioning system, ensuring you're back to cool comfort
                                         in no time!</p>

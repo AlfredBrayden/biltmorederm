@@ -1,8 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Carpenter Heating and Air Conditioning | Home</title>
-<meta name="description"
-    content=" Carpenter Heating and Air Conditioning: Over 60 years of trusted furnace repair and AC repair in Ogden, Utah. Family-owned, service-first philosophy.">
+<title>Biltmore Dermatology | Home</title>
 
 </head>
 
@@ -130,14 +128,14 @@
                         <div class="col-md-12  text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <!--  <h2 class="wow fadeInUp">Air Conditioning and Heating Specialists</h2> -->
-                            <p class="wow fadeInUp">Welcome to Carpenter Heating and Air Conditioning, where our
+                            <p class="wow fadeInUp">Welcome to Biltmore Dermatology, where our
                                 family-owned heritage is the cornerstone of our "Service First" philosophy. With over 60
                                 years of experience serving Ogden, Utah, we don’t just offer HVAC solutions—we build
                                 strong, lasting relationships with our clients. Our commitment to excellence drives us
                                 to deliver top-quality furnace repair and AC repair services, personalized to meet the
                                 unique needs of every home. Whether you need an emergency repair, a full system
                                 installation, or routine maintenance, you can trust our expert technicians to keep your
-                                home comfortable year-round. At Carpenter Heating and Air Conditioning, we’re not just
+                                home comfortable year-round. At Biltmore Dermatology, we’re not just
                                 your service provider—we’re your neighbors, deeply invested in the well-being of our
                                 community and your satisfaction.</p>
                             <div class="spacer-10"></div>
@@ -356,7 +354,7 @@
                             <!--   <div class="subtitle wow fadeInUp mb-3">Our Specialize</div> -->
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering Exceptional HVAC Results in Ogden
                                 and Davis County </h2>
-                            <p class="wow fadeInUp">Carpenter Heating and Air Conditioning has a proven track record in
+                            <p class="wow fadeInUp">Biltmore Dermatology has a proven track record in
                                 furnace repair, AC repair, and HVAC installations throughout Ogden and Davis County. Our
                                 commitment to excellence and attention to detail ensure that every service is performed
                                 with the utmost professionalism, providing you and your home with efficient,
@@ -460,8 +458,7 @@
                 <div class="container">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-9">
-                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Carpenter
-                                Heating and Cooling</h3>
+                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Biltmore Dermatology</h3>
                         </div>
 
                         <div class="col-lg-3 text-lg-end text-start">
