@@ -153,7 +153,7 @@ h2.slider-title {
 }
 
 .banner-wrapper-text{
-    max-width: 700px;
+    max-width: 700px !important;
 }
 
 .banner-wrapper-text h3{
