@@ -42,18 +42,18 @@
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
                                                         <!-- <div class="subtitle s2 mb-2">Climate Care</div> -->
-                                                        <h2 class="slider-title mb-3 "> Family-Owned, Service Driven,
-                                                            Comfort Delivered
+                                                        <h2 class="slider-title mb-3 "> WE’VE ELIMINATED THE WAIT
+                                                        AND MADE DERMATOLOGY MORE ACCESSIBLE
 
                                                         </h2>
-                                                        <h3 class="slider-teaser mb-3"> Building Lasting Customer
-                                                            Relationships On A Foundation Of Service
+                                                        <h3 class="slider-teaser mb-3"> Biltmore Dermatology now combines the convenience of an urgent care with the same high-quality services you expect at a dermatology office.
+
+
                                                         </h3>
-                                                        <!--    <h4>Building Lasting Customer Relationships on a Foundation of
-                                                            Service</h4> -->
-                                                        <!-- <div class="spacer-10"></div>
+
+                                                        <div class="spacer-10"></div>
                                                         <a class="btn-main mb10 mb-3" href="contact.php">Book a
-                                                            Repair</a> -->
+                                                            Appointment</a>
                                                     </div>
                                                 </div>
 
@@ -69,7 +69,7 @@
                             <!-- Slides -->
 
                             <!-- Slides -->
-                            <div class="swiper-slide">
+                          <!--   <div class="swiper-slide">
                                 <div class="swiper-inner" data-bgimage="url(images/slider/fall_tune_up_2000x1333.webp)">
                                     <div class="sw-caption">
                                         <div class="container">
@@ -80,7 +80,7 @@
                                                 <div class="col-lg-12 text-center">
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
-                                                        <!--    <div class="subtitle s2 mb-2">Pure Comfort</div> -->
+
                                                         <h2 class="slider-title mb-3"> The Beauty of Fall Means It’s
                                                             Time to Prepare
 
@@ -103,7 +103,7 @@
                                     </div>
                                     <div class="sw-overlay s2"></div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Slides -->
 
 
