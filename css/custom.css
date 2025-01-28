@@ -1,0 +1,148 @@
+.logo-main {
+    width: 180px;
+    /*    filter: invert(10) saturate(0) brightness(3.5); */
+    margin: 10px 0px;
+
+}
+
+.logo-scroll,
+.logo-mobile {
+    width: 180px;
+    margin: 10px 0px;
+
+}
+
+
+#mainmenu>li {
+    margin-right: 28px !important;
+}
+
+#mainmenu>li>a {
+    font-size: 14px !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .header-col-mid #mainmenu {
+        top: 150px !important;
+    }
+}
+
+/* Styles for Sub-Menus */
+.sub-menu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    /* Align sub-menu to the right of the parent item */
+    top: 55px;
+    min-width: 200px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+li:hover>.sub-menu {
+    display: block;
+    /* Show sub-menu on hover */
+}
+
+/* Style for Links */
+.sub-menu li a {
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+    color: #333;
+    background-color: #f9f9f9;
+
+}
+
+.sub-menu li a:hover {
+    background-color: #ececec;
+}
+
+@media (min-width:991px) {
+    .head-menu {
+        background-image: url(https://cdn-icons-png.flaticon.com/512/32/32213.png) !important;
+        background-position: 13em 15px !important;
+        background-repeat: no-repeat !important;
+        background-size: 10px !important;
+    }
+
+    #mainmenu li ul ul:not(.ul-list) {
+        margin-left: 199px !important;
+    }
+
+}
+
+@media (max-width:991px) {
+    header.header-mobile #mainmenu li>ul>li>span {
+        filter: invert(1);
+    }
+}
+
+#content p a,
+#content li a {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 36px !important;
+}
+
+
+.btn-main {
+    text-decoration: none !important;
+}
+
+
+.inner-page-banner {
+    object-position: 50% 100% !important;
+}
+
+header #mainmenu li li a:hover {
+    color: #ffffff !important;
+}
+
+#subheader {
+    padding: 220px 0 220px 0 !important;
+    min-height: 550px;
+}
+
+
+.swiper-slide-active .slider-title,
+h2.slider-title {
+    letter-spacing: normal !important;
+}
+
+#subheader h1 {
+    margin: 20px 0px !important;
+}
+
+
+.sw-text-wrapper h2 {
+    /*  font-size: 3.5rem !important; */
+    font-weight: 900 !important;
+}
+
+
+.sw-text-wrapper h3 {
+    /*  font-size: 2rem !important; */
+    font-weight: 900 !important;
+}
+
+
+#contact_form textarea {
+    height: 151px !important;
+}
+
+
+.shadow-custom {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.equal-cards {
+    min-height: 370px;
+}
+
+.equal-cards p {
+    font-size: 16px !important;
+}
