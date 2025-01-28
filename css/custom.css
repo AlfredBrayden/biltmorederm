@@ -151,3 +151,11 @@ h2.slider-title {
 .equal-cards p {
     font-size: 16px !important;
 }
+
+.banner-wrapper-text{
+    max-width: 700px;
+}
+
+.banner-wrapper-text h3{
+    font-weight: 400 !important;
+}

@@ -40,13 +40,13 @@
 
                                                 <div class="col-lg-12 text-center">
                                                     <div class="spacer-single"></div>
-                                                    <div class="sw-text-wrapper">
+                                                    <div class="sw-text-wrapper banner-wrapper-text">
                                                         <!-- <div class="subtitle s2 mb-2">Climate Care</div> -->
-                                                        <h2 class="slider-title mb-3 text-left"> WE’VE ELIMINATED THE WAIT
+                                                        <h2 class="slider-title mb-3 text-start"> WE’VE ELIMINATED THE WAIT
                                                         AND MADE DERMATOLOGY MORE ACCESSIBLE
 
                                                         </h2>
-                                                        <h3 class="slider-teaser mb-3 text-left"> Biltmore Dermatology now combines the convenience of an urgent care with the same high-quality services you expect at a dermatology office.
+                                                        <h3 class="slider-teaser mb-3 text-start"> Biltmore Dermatology now combines the convenience of an urgent care with the same high-quality services you expect at a dermatology office.
 
 
                                                         </h3>
