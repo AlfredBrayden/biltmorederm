@@ -52,7 +52,7 @@
                                   </li>
                                   <li><a class="menu-item" href="about.php">About</a></li>
 
-                                  <li> <a class="menu-item " href="heating.php">Heating </a>
+                                <!--   <li> <a class="menu-item " href="heating.php">Heating </a>
                                       <ul class="sub-menu">
                                           <li> <a class="menu-item" href="furnaces.php">Furnaces</a></li>
                                           <li> <a class="menu-item" href="heat-pumps.php">Heat Pumps </a></li>
@@ -69,38 +69,16 @@
                                           </li>
                                           <li><a class="menu-item" href="mini-splits.php">Mini Split </a></li>
                                       </ul>
-                                  </li>
-
-
-                                  <li><a class="menu-item" href="#">Services</a>
-                                      <ul class="sub-menu">
-                                          <li>
-                                              <a class="menu-item" href="services.php">Services Overview </a>
-                                          </li>
-
-                                          <li> <a class="menu-item " href="maintenance.php">Maintenance Plan</a> </li>
-
-                                          <li> <a class="menu-item" href="air-quality.php">Air Quality </a></li>
-
-                                          <li> <a class="menu-item" href="commercial.php">Commercial HVAC </a></li>
-
-                                          <li> <a class="menu-item" href="air-purifier.php">Air Purifier </a></li>
-
-                                          <li> <a class="menu-item" href="pool-dehumidfication.php">Pool Dehumidfication
-                                              </a></li>
-                                          <li> <a class="menu-item" href="repair.php">Repair
-                                              </a></li>
-
-
-                                      </ul>
-                                  </li>
+                                  </li> -->
 
 
 
-                                  <li> <a class="menu-item" href="financing.php">Financing </a></li>
 
 
-                                  <li> <a class="menu-item" href="specials.php">Specials </a></li>
+                                  <li> <a class="menu-item" href="financing.php">Medical </a></li>
+
+
+                                  <li> <a class="menu-item" href="specials.php">Cosmetics </a></li>
 
 
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
