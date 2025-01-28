@@ -4,7 +4,7 @@
 <html lang="en">
 
 <head>
-    <link rel="icon" href="images/logo1.png" type="image/gif" sizes="16x16">
+    <link rel="icon" href="images/logo-1.svg" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
