@@ -21,18 +21,16 @@
                    <div class="row">
                        <div class="col-lg-12 col-sm-12">
                            <div class="widget">
-                               <h5>Service Area</h5>
+                               <h5>Quick Links</h5>
                                <div class="row">
                                    <div class="col-md-12">
                                        <ul>
-                                           <li><a href="ogden.php">Ogden</a> </li>
-                                           <li><a href="riverdale.php">Riverdale</a> </li>
-                                           <li><a href="pleasent-view.php">Pleasent View</a> </li>
-                                           <li><a href="harrisville.php">Harrisville</a> </li>
-                                           <li><a href="marriott-slaterville.php">Marriott-Slaterville</a> </li>
-                                           <li><a href="plain-city.php">Plain City</a> </li>
-                                           <li><a href="syracuse.php">Syracuse</a> </li>
-                                           <li><a href="clearfield.php">Clearfield</a> </li>
+                                           <li><a href="">
+                                           Resources</a> </li>
+                                           <li><a href="">Blogs</a> </li>
+
+                                           <li><a href="">Contact</a> </li>
+
                                        </ul>
                                    </div>
 
