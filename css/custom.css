@@ -1,3 +1,12 @@
+:root {
+    --primary-color: #6E7A71 !important;
+    --secondary-color: #CED9C6 !important;
+    --tertiary-color: #F4F7FB;
+
+}
+
+
+
 .logo-main {
     width: 180px;
        filter: saturate(0) brightness(3.5);
