@@ -193,7 +193,7 @@
             <!-- Our team section -->
 
 
-            <div class="py-5 team3 " style="background-color:#e7f3ff ;">
+            <section class=" team3 " style="background-color:#e7f3ff ;">
                 <div class="container">
                     <div class="row justify-content-center mb-4">
                         <div class="col-md-7 text-center">
@@ -268,7 +268,7 @@
                         <!-- column  -->
                     </div>
                 </div>
-            </div>
+            </section>
 
 
 
@@ -312,7 +312,7 @@
 
 
 
-            <div class="py-5 team3 bg-light">
+            <section class=" team3 bg-light">
                 <div class="container">
                     <div class="row justify-content-center mb-4">
                         <div class="col-md-7 text-center">
@@ -384,7 +384,7 @@
 
                     </div>
                 </div>
-            </div>
+            </section>
 
 
             <!--     <section class="bg-color text-light pt40 pb40">
