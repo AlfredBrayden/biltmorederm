@@ -246,3 +246,10 @@ h2.slider-title {
     background-size: cover;
     background-position: center;
 }
+
+
+@media (max-width:991px) {
+    .card-col{
+        text-align: center !important;
+    }
+}
