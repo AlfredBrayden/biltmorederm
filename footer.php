@@ -66,11 +66,11 @@
                    <div class="widget">
                       <!--  <h5 class="id-color-2">24 Hours &amp; Emergencies</h5> -->
                        <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><a href="tel:+18122035436"><i
-                                   class="icofont-phone-circle id-color-2"></i> (812) 203 5436</a></h2>
+                                   class="icofont-phone-circle" style="color:white;"></i> (812) 203 5436</a></h2>
 
                        <div class="spacer-20"></div>
 
-                       <div class="fw-bold text-white"><i class="icofont-location-pin me-2 id-color-2"></i>Office
+                       <div class="fw-bold text-white"><!-- <i class="icofont-location-pin me-2 id-color-2"></i> -->Office
                            Location</div>
                        76 W. Springhill Dr
                        Terre Haute, IN 47802
