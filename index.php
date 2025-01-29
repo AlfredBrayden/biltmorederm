@@ -197,7 +197,7 @@
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
         <h3 class="mb-3">Experienced & Professional Team</h3>
-        <h6 class="subtitle font-weight-normal">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
+        <h6 class=" font-weight-normal">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
       </div>
     </div>
     <div class="row">
@@ -211,7 +211,7 @@
           <div class="col-md-12">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle">Property Specialist</h6>
+              <h6 class="">Property Specialist</h6>
               <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
@@ -235,7 +235,7 @@
           <div class="col-md-12">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle">Property Specialist</h6>
+              <h6 class="">Property Specialist</h6>
               <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
@@ -259,7 +259,7 @@
           <div class="col-md-12">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle">Property Specialist</h6>
+              <h6 class="">Property Specialist</h6>
               <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
