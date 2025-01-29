@@ -39,8 +39,8 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 text-lg-end">
-                                <div class="fs-20 fw-600 no-bottom sm-hide">Air Conditioning and Heating Specialists
-                                </div>
+                              <!--   <div class="fs-20 fw-600 no-bottom sm-hide">Air Conditioning and Heating Specialists
+                                </div> -->
                             </div>
                         </div>
                     </div>
