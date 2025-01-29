@@ -29,7 +29,8 @@
                         <div class="swiper-wrapper">
                             <!-- Slides -->
                             <div class="swiper-slide">
-                                <div class="swiper-inner" data-bgimage="url(images/slider/Biltmore-Derm-Homepage-Desktop-Header-v2.webp">
+                                <div class="swiper-inner"
+                                    data-bgimage="url(images/slider/Biltmore-Derm-Homepage-Desktop-Header-v2.webp">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
@@ -40,17 +41,21 @@
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper banner-wrapper-text">
                                                         <!-- <div class="subtitle s2 mb-2">Climate Care</div> -->
-                                                        <h2 class="slider-title mb-3 text-start"> WE’VE ELIMINATED THE WAIT
-                                                        AND MADE DERMATOLOGY MORE ACCESSIBLE
+                                                        <h2 class="slider-title mb-3 text-start"> WE’VE ELIMINATED THE
+                                                            WAIT
+                                                            AND MADE DERMATOLOGY MORE ACCESSIBLE
 
                                                         </h2>
-                                                        <h3 class="slider-teaser mb-3 text-start"> Biltmore Dermatology now combines the convenience of an urgent care with the same high-quality services you expect at a dermatology office.
+                                                        <h3 class="slider-teaser mb-3 text-start"> Biltmore Dermatology
+                                                            now combines the convenience of an urgent care with the same
+                                                            high-quality services you expect at a dermatology office.
 
 
                                                         </h3>
 
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3 float-start" href="contact.php">Book an
+                                                        <a class="btn-main mb10 mb-3 float-start"
+                                                            href="contact.php">Book an
                                                             Appointment</a>
                                                     </div>
                                                 </div>
@@ -67,7 +72,7 @@
                             <!-- Slides -->
 
                             <!-- Slides -->
-                          <!--   <div class="swiper-slide">
+                            <!--   <div class="swiper-slide">
                                 <div class="swiper-inner" data-bgimage="url(images/slider/fall_tune_up_2000x1333.webp)">
                                     <div class="sw-caption">
                                         <div class="container">
@@ -126,20 +131,22 @@
                             <img src="images/misc/handy-man.webp" class="img-fluid wow scaleIn" alt="">
                         </div> -->
                         <div class="col-md-12  text-center">
-                            <div class="subtitle wow fadeInUp mb-3">Welcome</div>
-                            <!--  <h2 class="wow fadeInUp">Air Conditioning and Heating Specialists</h2> -->
-                            <p class="wow fadeInUp">Welcome to Biltmore Dermatology, where our
-                                family-owned heritage is the cornerstone of our "Service First" philosophy. With over 60
-                                years of experience serving Ogden, Utah, we don’t just offer HVAC solutions—we build
-                                strong, lasting relationships with our clients. Our commitment to excellence drives us
-                                to deliver top-quality furnace repair and AC repair services, personalized to meet the
-                                unique needs of every home. Whether you need an emergency repair, a full system
-                                installation, or routine maintenance, you can trust our expert technicians to keep your
-                                home comfortable year-round. At Biltmore Dermatology, we’re not just
-                                your service provider—we’re your neighbors, deeply invested in the well-being of our
-                                community and your satisfaction.</p>
+                            <div class="subtitle wow fadeInUp mb-3">Welcome To Arizona Skin</div>
+                            <h2 class="wow fadeInUp">Serving the Phoenix Area</h2>
+                            <p class="wow fadeInUp">Welcome to Arizona Skin, where we specialize in both medical and
+                                cosmetic dermatology procedures. Under the expert leadership of Dr. Jay G. Mehta and our
+                                compassionate team of certified medical professionals, we proudly serve patients
+                                throughout the Greater Phoenix area, including Surprise, Scottsdale, and Buckeye.</p>
+                            <p class="wow fadeInUp">At Arizona Skin, we offer a wide range of services, including dermal
+                                fillers, chemical peels, laser therapies, and treatments for common skin conditions and
+                                diseases. We also provide comprehensive skin cancer screenings and treatments for basal
+                                cell carcinoma, squamous cell carcinoma, and melanoma. Whether you’re looking to enhance
+                                the overall health of your skin or address a specific concern, Arizona Skin is here to
+                                help.
+
+                            </p>
                             <div class="spacer-10"></div>
-                            <a class="btn-main wow fadeInUp" href="about.php">About Company</a>
+                           <!--  <a class="btn-main wow fadeInUp" href="about.php">About Company</a> -->
                         </div>
                     </div>
 
@@ -458,7 +465,8 @@
                 <div class="container">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-9">
-                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Biltmore Dermatology</h3>
+                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Biltmore
+                                Dermatology</h3>
                         </div>
 
                         <div class="col-lg-3 text-lg-end text-start">
