@@ -152,10 +152,10 @@
 
             <section class="counter-section bg-color-3">
                 <div class="container">
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-md-3">
                             <div class="de_count">
-                                <h3><span class="timer" data-to="99" data-speed="3000"></span>+
+                                <h3><span class="timer" data-to="99" data-speed="3000"></span>%
                                 </h3>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
                                     dolor earum iure laudantium laborum </p>
@@ -163,7 +163,7 @@
                         </div>
                         <div class="col-md-3">
                             <div class="de_count">
-                                <h3><span class="timer" data-to="99" data-speed="3000"></span>+
+                                <h3><span class="timer" data-to="9500" data-speed="3000"></span>+
                                 </h3>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
                                     dolor earum iure laudantium laborum </p>
@@ -171,12 +171,17 @@
                         </div>
                         <div class="col-md-3">
                             <div class="de_count">
-                                <h3><span class="timer" data-to="99" data-speed="3000"></span>+
+                                <h3><span class="timer" data-to="15" data-speed="3000"></span>%
                                 </h3>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
                                     dolor earum iure laudantium laborum </p>
                             </div>
                         </div>
+
+                        <div class="col-12 wow fadeInUp text-center pt-4  animated" >
+                            <a class="btn-main btn-dark" href="">How we can help </a>
+                        </div>
+
                     </div>
                 </div>
             </section>
