@@ -8,6 +8,9 @@ footer{
     background: var( --secondary-color) !important;
 }
 
+footer a:hover{
+    color:rgb(199, 199, 199) !important;
+}
 
 
 .logo-main {
