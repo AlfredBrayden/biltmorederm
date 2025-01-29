@@ -6,15 +6,14 @@
                       <div class="col-lg-12">
                           <div class="d-flex justify-content-between xs-hide">
                               <div class="header-widget d-flex">
-                                  <div class="topbar-widget"><a href="tel:+18013991127"><i
-                                              class="icofont-phone"></i>(801)
-                                          399-1127</a></div>
+                                  <div class="topbar-widget"><a href="tel:+18122035436"><i
+                                              class="icofont-phone"></i>812.203.5436</a></div>
                                   <!--    <div class="topbar-widget"><a href="#"><i
                                               class="icofont-envelope"></i>contact@coolair.com</a></div> -->
                                   <div class="topbar-widget"><a
-                                          href="https://www.google.com/search?q=Carpenter+HVAC+Ogden&gs_ivs=1"
-                                          target="_blank"><i class="icofont-location-pin"></i>2714 Wall
-                                          Ave, Ogden, UT 84401</a></div>
+                                          href=""
+                                          target="_blank"><i class="icofont-location-pin"></i>76 W. Springhill Dr
+                                          Terre Haute, IN 47802</a></div>
                               </div>
 
                                <div class="social-icons">
