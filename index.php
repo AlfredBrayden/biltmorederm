@@ -157,24 +157,24 @@
                             <div class="de_count">
                                 <h3><span class="timer" data-to="99" data-speed="3000"></span>%
                                 </h3>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
-                                    dolor earum iure laudantium laborum </p>
+                                <p>The 5-year survival rate for people whose melanoma is detected and treated before it spreads to the lymph nodes
+                                </p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="9500" data-speed="3000"></span>+
                                 </h3>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
-                                    dolor earum iure laudantium laborum </p>
+                                <p>Estimated number of Americans diagnosed with skin cancer daily.
+                                </p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="15" data-speed="3000"></span>%
                                 </h3>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
-                                    dolor earum iure laudantium laborum </p>
+                                <p>Women in their 30s & 40s that experience adult acne
+                                </p>
                             </div>
                         </div>
 
@@ -354,7 +354,9 @@
                                 <div class="col-md-12">
                                     <div class="pt-2">
                                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
-
+                                        <div class=" text-start pt-4  ">
+                            <a class="btn-main btn-dark" href="">Learn More </a>
+                        </div>
                                     </div>
                                 </div>
                             </div>
