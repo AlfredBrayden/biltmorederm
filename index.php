@@ -193,7 +193,7 @@
             <!-- Our team section -->
 
 
-            <div class="py-5 team3 bg-light">
+            <div class="py-5 team3 " style="background-color:#e7f3ff ;">
                 <div class="container">
                     <div class="row justify-content-center mb-4">
                         <div class="col-md-7 text-center">
