@@ -236,7 +236,7 @@ h2.slider-title {
 }
 
 .skin-condition-sec{
-    background-image: url('../images/background/testimonials-inject-v2.webp');
+    background-image: url('../images/background/testimonials-inject-v2.webp') !important;
     background-repeat: no-repeat;
     background-position: cover;
 }
