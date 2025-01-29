@@ -1,4 +1,4 @@
-<?php $base_url  = "https://stage.reticlewebmarketing.com/carpenter24"; ?>
+<?php $base_url  = "https://stage.reticlewebmarketing.com/biltmorederm"; ?>
 
 <!DOCTYPE html>
 <html lang="en">
