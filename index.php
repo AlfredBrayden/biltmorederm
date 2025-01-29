@@ -298,6 +298,9 @@
                             <li>Warts</li>
                         </ul>
 
+                        <h4>WE CAN HELP!</h4>
+                        <p>Schedule your appointment today.</p>
+
 
                     </div>
                 </div>
