@@ -234,3 +234,9 @@ h2.slider-title {
   margin: 0 0 20px 0;
   font-size: 13px;
 }
+
+.skin-condition-sec{
+    background-image: url('../images/background/testimonials-inject-v2.webp');
+    background-repeat: no-repeat;
+    background-position: cover;
+}

@@ -143,7 +143,7 @@
                         </div>
                     </div>
 
-              <!--       <div class="spacer-double"></div> -->
+                    <!--       <div class="spacer-double"></div> -->
 
 
                 </div>
@@ -178,7 +178,7 @@
                             </div>
                         </div>
 
-                        <div class="col-12 wow fadeInUp text-center pt-4  animated" >
+                        <div class="col-12 wow fadeInUp text-center pt-4  animated">
                             <a class="btn-main btn-dark" href="">How we can help </a>
                         </div>
 
@@ -194,79 +194,121 @@
 
 
             <div class="py-5 team3 bg-light">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h2 class="mb-3">Experienced & Professional Team</h2>
-        <p class=" font-weight-normal">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</p>
-      </div>
-    </div>
-    <div class="row">
-      <!-- column  -->
-      <div class="col-lg-4 mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t1.jpg" alt="wrapkit" class="img-fluid" />
-          </div>
-          <div class="col-md-12">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
+                <div class="container">
+                    <div class="row justify-content-center mb-4">
+                        <div class="col-md-7 text-center">
+                            <h2 class="mb-3">Experienced & Professional Team</h2>
+                            <p class=" font-weight-normal">You can relay on our amazing features list and also our
+                                customer services will be great experience for you without doubt and in no-time</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- column  -->
+                        <div class="col-lg-4 mb-4">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t1.jpg"
+                                        alt="wrapkit" class="img-fluid" />
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="pt-2">
+                                        <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
+                                        <h6 class="subtitle">Property Specialist</h6>
+                                        <p>You can relay on our amazing features list and also our customer services
+                                            will be great experience.</p>
 
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row -->
+                        </div>
+                        <!-- column  -->
+                        <!-- column  -->
+                        <div class="col-lg-4 mb-4">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="col-md-12 pro-pic">
+                                    <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg"
+                                        alt="wrapkit" class="img-fluid" />
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="pt-2">
+                                        <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
+                                        <h6 class="subtitle">Property Specialist</h6>
+                                        <p>You can relay on our amazing features list and also our customer services
+                                            will be great experience.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row -->
+                        </div>
+                        <!-- column  -->
+                        <!-- column  -->
+                        <div class="col-lg-4 mb-4">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="col-md-12 pro-pic">
+                                    <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg"
+                                        alt="wrapkit" class="img-fluid" />
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="pt-2">
+                                        <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
+                                        <h6 class="subtitle">Property Specialist</h6>
+                                        <p>You can relay on our amazing features list and also our customer services
+                                            will be great experience.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row -->
+                        </div>
+                        <!-- column  -->
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-      <!-- column  -->
-      <div class="col-lg-4 mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12 pro-pic">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid" />
-          </div>
-          <div class="col-md-12">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-      <!-- column  -->
-      <div class="col-lg-4 mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12 pro-pic">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg" alt="wrapkit" class="img-fluid" />
-          </div>
-          <div class="col-md-12">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-    </div>
-  </div>
-</div>
 
 
 
+            <section class="skin-condition-sec">
+                <div class="container">
+                    <div class="col-md-6">
+                        <span>Dermatology</span>
+                        <h2>Struggling with these skin conditions?</h2>
+                        <ul>
+                            <li>Acne</li>
+                            <li>Actinic Keratosis</li>
+                            <li>Cysts</li>
+                            <li>Eczema</li>
+                            <li>Melasma</li>
+                            <li>Moles</li>
+                            <li>Nail Disorders</li>
+                            <li>Psoriasis</li>
+                            <li>Rashes</li>
+                            <li>Rosacea</li>
+                            <li>Seborrheic Keratosis</li>
+                            <li>Shingles</li>
+                            <li>Skin Cancer</li>
+                            <li>Skin Cancer Screening</li>
+                            <li>Skin Cancer Treatment</li>
+                            <li>Skin Care Products</li>
+                            <li>Skin Tags</li>
+                            <li>Warts</li>
+                        </ul>
 
-        <!--     <section class="bg-color text-light pt40 pb40">
+
+                    </div>
+                </div>
+            </section>
+
+
+
+            <!-- top treatments -->
+
+
+            <!--     <section class="bg-color text-light pt40 pb40">
                 <div class="container">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-9">
