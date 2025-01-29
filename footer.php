@@ -3,7 +3,7 @@
        <div class="container">
            <div class="row gx-5">
                <div class="col-lg-3 col-sm-6">
-                   <img src="images/logo-1.svg" style="width: 280px;" alt="footer-logo">
+                   <img src="images/logo-1.svg" style="width: 220px;" alt="footer-logo">
                    <div class="spacer-20"></div>
                    <div class="social-icons mb-sm-30">
                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
@@ -15,7 +15,7 @@
                </div>
 
 
-               <div class="col-lg-3 col-sm-12 order-lg-1 order-sm-2">
+               <div class="col-lg-2 col-sm-12 order-lg-1 order-sm-2">
                    <div class="row">
                        <div class="col-lg-12 col-sm-12">
                            <div class="widget">
@@ -62,7 +62,7 @@
                </div>
 
 
-               <div class="col-lg-3 col-sm-6 order-lg-2 order-sm-1">
+               <div class="col-lg-4 col-sm-6 order-lg-2 order-sm-1">
                    <div class="widget">
                       <!--  <h5 class="id-color-2">24 Hours &amp; Emergencies</h5> -->
                        <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><a href="tel:+18122035436"><i
