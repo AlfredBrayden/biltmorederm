@@ -198,7 +198,7 @@
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
         <h2 class="mb-3">Experienced & Professional Team</h2>
-        <h6 class="subtitle font-weight-normal">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
+        <p class=" font-weight-normal">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</p>
       </div>
     </div>
     <div class="row">
