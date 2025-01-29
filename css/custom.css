@@ -4,6 +4,11 @@
 }
 
 
+footer{
+    background: var( --secondary-color) !important;
+}
+
+
 
 .logo-main {
     width: 180px;

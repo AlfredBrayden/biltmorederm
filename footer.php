@@ -90,7 +90,7 @@
                    <div class="col-md-12">
                        <div class="de-flex">
                            <div class="de-flex-col pr-4">
-                               &copy; 2024 Biltmore Dermatology. All rights reserved. Our detailed,
+                               &copy; 2025 Biltmore Dermatology. All rights reserved. Our detailed,
                                original content is protected by copyright, and any unauthorized use is strictly
                                prohibited.
                            </div>
