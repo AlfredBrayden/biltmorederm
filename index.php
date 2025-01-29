@@ -133,16 +133,51 @@
                         <div class="col-md-12  text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome To Biltmore Dermatology</div>
                             <h2 class="wow fadeInUp">Serving the Phoenix Area</h2>
-                            <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima aspernatur iure repellat vel, id nobis? Perspiciatis corrupti beatae cumque mollitia labore pariatur consequuntur nobis magni esse, adipisci aperiam dignissimos. Officia!</p>
+                            <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima
+                                aspernatur iure repellat vel, id nobis? Perspiciatis corrupti beatae cumque mollitia
+                                labore pariatur consequuntur nobis magni esse, adipisci aperiam dignissimos. Officia!
+                            </p>
 
                             <div class="spacer-10"></div>
-                           <!--  <a class="btn-main wow fadeInUp" href="about.php">About Company</a> -->
+                            <!--  <a class="btn-main wow fadeInUp" href="about.php">About Company</a> -->
                         </div>
                     </div>
 
                     <div class="spacer-double"></div>
 
 
+                </div>
+            </section>
+
+
+            <section class="counter-section bg-color-3">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="de_count">
+                                <h3><span class="timer" data-to="99" data-speed="3000"></span>+
+                                </h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
+                                    dolor earum iure laudantium laborum </p>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="de_count">
+                                <h3><span class="timer" data-to="99" data-speed="3000"></span>+
+                                </h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
+                                    dolor earum iure laudantium laborum </p>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="de_count">
+                                <h3><span class="timer" data-to="99" data-speed="3000"></span>+
+                                </h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias adipisci, incidunt
+                                    dolor earum iure laudantium laborum </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
 
