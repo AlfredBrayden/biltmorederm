@@ -338,7 +338,7 @@
                                             consequatur enim maxime facere tenetur amet culpa explicabo architecto
                                             repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus
                                             veniam.</p>
-                                        <div class=" text-start pt-2  ">
+                                        <div class=" text-start pt-2 card-col ">
                                             <a class="btn-main btn-dark" href="">Learn More </a>
                                         </div>
                                     </div>
@@ -363,7 +363,7 @@
                                             consequatur enim maxime facere tenetur amet culpa explicabo architecto
                                             repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus
                                             veniam.</p>
-                                        <div class=" text-start pt-2  ">
+                                        <div class=" text-start pt-2  card-col">
                                             <a class="btn-main btn-dark" href="">Learn More </a>
                                         </div>
                                     </div>
@@ -388,7 +388,7 @@
                                             consequatur enim maxime facere tenetur amet culpa explicabo architecto
                                             repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus
                                             veniam.</p>
-                                        <div class=" text-start pt-2  ">
+                                        <div class=" text-start pt-2 card-col ">
                                             <a class="btn-main btn-dark" href="">Learn More </a>
                                         </div>
                                     </div>
