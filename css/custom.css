@@ -238,5 +238,6 @@ h2.slider-title {
 .skin-condition-sec{
     background-image: url('../images/background/GettyImages-639710258-scaled-2.webp') !important;
     background-repeat: no-repeat;
-    background-position: cover;
+    background-size: cover;
+    background-position: center;
 }
