@@ -124,7 +124,7 @@
                 </div>
             </section>
 
-            <section class="pt50">
+            <section class="">
                 <div class="container">
                     <div class="row align-items-center">
                         <!--    <div class="col-lg-6">
