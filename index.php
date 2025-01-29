@@ -131,20 +131,10 @@
                             <img src="images/misc/handy-man.webp" class="img-fluid wow scaleIn" alt="">
                         </div> -->
                         <div class="col-md-12  text-center">
-                            <div class="subtitle wow fadeInUp mb-3">Welcome To Arizona Skin</div>
+                            <div class="subtitle wow fadeInUp mb-3">Welcome To Biltmore Dermatology</div>
                             <h2 class="wow fadeInUp">Serving the Phoenix Area</h2>
-                            <p class="wow fadeInUp">Welcome to Arizona Skin, where we specialize in both medical and
-                                cosmetic dermatology procedures. Under the expert leadership of Dr. Jay G. Mehta and our
-                                compassionate team of certified medical professionals, we proudly serve patients
-                                throughout the Greater Phoenix area, including Surprise, Scottsdale, and Buckeye.</p>
-                            <p class="wow fadeInUp">At Arizona Skin, we offer a wide range of services, including dermal
-                                fillers, chemical peels, laser therapies, and treatments for common skin conditions and
-                                diseases. We also provide comprehensive skin cancer screenings and treatments for basal
-                                cell carcinoma, squamous cell carcinoma, and melanoma. Whether you’re looking to enhance
-                                the overall health of your skin or address a specific concern, Arizona Skin is here to
-                                help.
+                            <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima aspernatur iure repellat vel, id nobis? Perspiciatis corrupti beatae cumque mollitia labore pariatur consequuntur nobis magni esse, adipisci aperiam dignissimos. Officia!</p>
 
-                            </p>
                             <div class="spacer-10"></div>
                            <!--  <a class="btn-main wow fadeInUp" href="about.php">About Company</a> -->
                         </div>
