@@ -153,15 +153,16 @@
             <section class="counter-section bg-color-3">
                 <div class="container">
                     <div class="row justify-content-center">
-                        <div class="col-md-4">
+                        <div class="col-md-4 py-3 px-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="99" data-speed="3000"></span>%
                                 </h3>
-                                <p>The 5-year survival rate for people whose melanoma is detected and treated before it spreads to the lymph nodes
+                                <p>The 5-year survival rate for people whose melanoma is detected and treated before it
+                                    spreads to the lymph nodes
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 py-3 px-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="9500" data-speed="3000"></span>+
                                 </h3>
@@ -169,7 +170,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 py-3 px-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="15" data-speed="3000"></span>%
                                 </h3>
@@ -317,13 +318,13 @@
                     <div class="row justify-content-center mb-4">
                         <div class="col-md-7 text-center">
                             <h2 class="mb-3">TOP COSMETIC TREATMENTS</h2>
-                           <!--  <p class=" font-weight-normal">You can relay on our amazing features list and also our
+                            <!--  <p class=" font-weight-normal">You can relay on our amazing features list and also our
                                 customer services will be great experience for you without doubt and in no-time</p> -->
                         </div>
                     </div>
                     <div class="row">
                         <!-- column  -->
-                        <div class="col-lg-4 mb-4">
+                        <div class="col-lg-4 mb-5">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12">
@@ -333,10 +334,13 @@
                                 </div>
                                 <div class="col-md-12">
                                     <div class="pt-2">
-                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum,
+                                            consequatur enim maxime facere tenetur amet culpa explicabo architecto
+                                            repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus
+                                            veniam.</p>
                                         <div class=" text-start pt-2  ">
-                            <a class="btn-main btn-dark" href="">Learn More </a>
-                        </div>
+                                            <a class="btn-main btn-dark" href="">Learn More </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -344,7 +348,7 @@
                         </div>
                         <!-- column  -->
                         <!-- column  -->
-                        <div class="col-lg-4 mb-4">
+                        <div class="col-lg-4 mb-5">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12">
@@ -355,10 +359,13 @@
                                 </div>
                                 <div class="col-md-12">
                                     <div class="pt-2">
-                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum,
+                                            consequatur enim maxime facere tenetur amet culpa explicabo architecto
+                                            repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus
+                                            veniam.</p>
                                         <div class=" text-start pt-2  ">
-                            <a class="btn-main btn-dark" href="">Learn More </a>
-                        </div>
+                                            <a class="btn-main btn-dark" href="">Learn More </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -366,7 +373,7 @@
                         </div>
                         <!-- column  -->
                         <!-- column  -->
-                        <div class="col-lg-4 mb-4">
+                        <div class="col-lg-4 mb-5">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12">
@@ -377,10 +384,13 @@
                                 </div>
                                 <div class="col-md-12">
                                     <div class="pt-2">
-                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum,
+                                            consequatur enim maxime facere tenetur amet culpa explicabo architecto
+                                            repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus
+                                            veniam.</p>
                                         <div class=" text-start pt-2  ">
-                            <a class="btn-main btn-dark" href="">Learn More </a>
-                        </div>
+                                            <a class="btn-main btn-dark" href="">Learn More </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
