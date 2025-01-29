@@ -89,13 +89,13 @@
                <div class="row">
                    <div class="col-md-12">
                        <div class="de-flex">
-                           <div class="de-flex-col pr-4">
+                           <div class="de-flex-col pr-4" style="max-width:800px;">
                                &copy; 2025 Biltmore Dermatology. All rights reserved. Our detailed,
                                original content is protected by copyright, and any unauthorized use is strictly
                                prohibited.
                            </div>
                            <ul class="menu-simple">
-                               <li><a href="privacy.php">Terms &amp; Conditions</a></li> <br>
+                               <li><a href="privacy.php">Terms &amp; Conditions</a></li>
                                <li><a href="privacy.php">Privacy Policy</a></li>
                            </ul>
                        </div>
