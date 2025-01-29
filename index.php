@@ -153,7 +153,7 @@
             <section class="counter-section bg-color-3">
                 <div class="container">
                     <div class="row justify-content-center">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="99" data-speed="3000"></span>%
                                 </h3>
@@ -161,7 +161,7 @@
                                     dolor earum iure laudantium laborum </p>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="9500" data-speed="3000"></span>+
                                 </h3>
@@ -169,7 +169,7 @@
                                     dolor earum iure laudantium laborum </p>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="de_count">
                                 <h3><span class="timer" data-to="15" data-speed="3000"></span>%
                                 </h3>
