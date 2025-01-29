@@ -45,13 +45,13 @@
                            <div class="widget">
                                <h5>HOURS</h5>
 
-                               <p>Mon: 8:00AM–6:00PM
-                                   Tues: 8:00AM–5:00PM
-                                   Wed: 8:00AM–6:00PM
-                                   Thu: 8:00AM–5:00PM
-                                   Fri: 8:00AM-12:00PM*
+                               <p>Mon: 8:00AM–6:00PM <br>
+                                   Tues: 8:00AM–5:00PM <br>
+                                   Wed: 8:00AM–6:00PM <br>
+                                   Thu: 8:00AM–5:00PM <br>
+                                   Fri: 8:00AM-12:00PM* <br>
 
-                                   *Radiation Therapy Only
+                                   *Radiation Therapy Only <br>
                                    Closed for Lunch 12:00PM–1:00PM</p>
 
 
