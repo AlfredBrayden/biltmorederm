@@ -311,6 +311,83 @@
             <!-- top treatments -->
 
 
+
+            <div class="py-5 team3 bg-light">
+                <div class="container">
+                    <div class="row justify-content-center mb-4">
+                        <div class="col-md-7 text-center">
+                            <h2 class="mb-3">TOP COSMETIC TREATMENTS</h2>
+                           <!--  <p class=" font-weight-normal">You can relay on our amazing features list and also our
+                                customer services will be great experience for you without doubt and in no-time</p> -->
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- column  -->
+                        <div class="col-lg-4 mb-4">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h3 class=" text-center mb-2">MICRONEEDLING</h3>
+                                    <img src="https://www.azskin.com/wp-content/uploads/2024/09/GettyImages-1487412016-1-1.webp"
+                                        alt="wrapkit" class="img-fluid" />
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="pt-2">
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row -->
+                        </div>
+                        <!-- column  -->
+                        <!-- column  -->
+                        <div class="col-lg-4 mb-4">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="col-md-12 pro-pic">
+                                    <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg"
+                                        alt="wrapkit" class="img-fluid" />
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="pt-2">
+                                        <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
+                                        <h6 class="subtitle">Property Specialist</h6>
+                                        <p>You can relay on our amazing features list and also our customer services
+                                            will be great experience.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row -->
+                        </div>
+                        <!-- column  -->
+                        <!-- column  -->
+                        <div class="col-lg-4 mb-4">
+                            <!-- Row -->
+                            <div class="row">
+                                <div class="col-md-12 pro-pic">
+                                    <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg"
+                                        alt="wrapkit" class="img-fluid" />
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="pt-2">
+                                        <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
+                                        <h6 class="subtitle">Property Specialist</h6>
+                                        <p>You can relay on our amazing features list and also our customer services
+                                            will be great experience.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row -->
+                        </div>
+                        <!-- column  -->
+                    </div>
+                </div>
+            </div>
+
+
             <!--     <section class="bg-color text-light pt40 pb40">
                 <div class="container">
                     <div class="row g-4 align-items-center">
