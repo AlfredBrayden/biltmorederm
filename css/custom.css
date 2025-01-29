@@ -198,7 +198,9 @@ h2.slider-title {
   /* color: #8d97ad; */
   line-height: 24px;
   font-size: 14px;
-  padding: 0 !important
+  padding: 0 !important;
+  background: none !important;
+
 }
 
 .team3 ul {
