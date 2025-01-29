@@ -345,16 +345,15 @@
                         <div class="col-lg-4 mb-4">
                             <!-- Row -->
                             <div class="row">
-                                <div class="col-md-12 pro-pic">
-                                    <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg"
+                                <div class="col-md-12">
+                                    <h3 class=" text-center mb-2">BOTOX & DYSPORT
+                                    </h3>
+                                    <img src="https://www.azskin.com/wp-content/uploads/2024/09/GettyImages-1391641445.webp"
                                         alt="wrapkit" class="img-fluid" />
                                 </div>
                                 <div class="col-md-12">
                                     <div class="pt-2">
-                                        <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-                                        <h6 class="subtitle">Property Specialist</h6>
-                                        <p>You can relay on our amazing features list and also our customer services
-                                            will be great experience.</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
 
                                     </div>
                                 </div>
@@ -366,16 +365,15 @@
                         <div class="col-lg-4 mb-4">
                             <!-- Row -->
                             <div class="row">
-                                <div class="col-md-12 pro-pic">
-                                    <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg"
+                                <div class="col-md-12">
+                                    <h3 class=" text-center mb-2">CHEMICAL PEELS
+                                    </h3>
+                                    <img src="https://www.azskin.com/wp-content/uploads/2024/09/GettyImages-1414654709-1-1.webp"
                                         alt="wrapkit" class="img-fluid" />
                                 </div>
                                 <div class="col-md-12">
                                     <div class="pt-2">
-                                        <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-                                        <h6 class="subtitle">Property Specialist</h6>
-                                        <p>You can relay on our amazing features list and also our customer services
-                                            will be great experience.</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
 
                                     </div>
                                 </div>
@@ -383,6 +381,7 @@
                             <!-- Row -->
                         </div>
                         <!-- column  -->
+
                     </div>
                 </div>
             </div>
