@@ -334,7 +334,9 @@
                                 <div class="col-md-12">
                                     <div class="pt-2">
                                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
-
+                                        <div class=" text-start pt-2  ">
+                            <a class="btn-main btn-dark" href="">Learn More </a>
+                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -354,7 +356,7 @@
                                 <div class="col-md-12">
                                     <div class="pt-2">
                                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
-                                        <div class=" text-start pt-4  ">
+                                        <div class=" text-start pt-2  ">
                             <a class="btn-main btn-dark" href="">Learn More </a>
                         </div>
                                     </div>
@@ -376,7 +378,9 @@
                                 <div class="col-md-12">
                                     <div class="pt-2">
                                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor non illum, consequatur enim maxime facere tenetur amet culpa explicabo architecto repellat et? Ipsam odio quod pariatur accusantium quisquam temporibus veniam.</p>
-
+                                        <div class=" text-start pt-2  ">
+                            <a class="btn-main btn-dark" href="">Learn More </a>
+                        </div>
                                     </div>
                                 </div>
                             </div>
