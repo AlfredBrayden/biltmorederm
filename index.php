@@ -205,7 +205,7 @@
                     </div>
                     <div class="row">
                         <!-- column  -->
-                        <div class="col-lg-4 mb-4">
+                        <div class="col-lg-4 mb-4 card-col">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12">
@@ -226,7 +226,7 @@
                         </div>
                         <!-- column  -->
                         <!-- column  -->
-                        <div class="col-lg-4 mb-4">
+                        <div class="col-lg-4 mb-4 card-col">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12 pro-pic">
@@ -247,7 +247,7 @@
                         </div>
                         <!-- column  -->
                         <!-- column  -->
-                        <div class="col-lg-4 mb-4">
+                        <div class="col-lg-4 mb-4 card-col">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12 pro-pic">
@@ -324,7 +324,7 @@
                     </div>
                     <div class="row">
                         <!-- column  -->
-                        <div class="col-lg-4 mb-5">
+                        <div class="col-lg-4 mb-5 card-col">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12">
@@ -348,7 +348,7 @@
                         </div>
                         <!-- column  -->
                         <!-- column  -->
-                        <div class="col-lg-4 mb-5">
+                        <div class="col-lg-4 mb-5 card-col">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12">
@@ -373,7 +373,7 @@
                         </div>
                         <!-- column  -->
                         <!-- column  -->
-                        <div class="col-lg-4 mb-5">
+                        <div class="col-lg-4 mb-5 card-col">
                             <!-- Row -->
                             <div class="row">
                                 <div class="col-md-12">
