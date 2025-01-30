@@ -74,10 +74,12 @@
 
 
 
-                                  <li> <a class="menu-item" href="financing.php">Medical </a></li>
+                                  <li> <a class="menu-item" href="financing.php">Medical   </a></li>
 
 
-                                  <li> <a class="menu-item" href="specials.php">Cosmetics </a></li>
+                                  <li> <a class="menu-item" href="specials.php">Cosmetic   </a></li>
+
+                                  <li> <a class="menu-item" href="specials.php">Patient Resources    </a></li>
 
 
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>

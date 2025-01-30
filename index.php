@@ -132,7 +132,7 @@
                         </div> -->
                         <div class="col-md-12  text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome To Biltmore Dermatology</div>
-                            <h2 class="wow fadeInUp">Serving the Phoenix Area</h2>
+                            <h2 class="wow fadeInUp">Serving the Wabash Valley</h2>
                             <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima
                                 aspernatur iure repellat vel, id nobis? Perspiciatis corrupti beatae cumque mollitia
                                 labore pariatur consequuntur nobis magni esse, adipisci aperiam dignissimos. Officia!
